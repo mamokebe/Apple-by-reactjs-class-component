@@ -11,7 +11,7 @@ import servantLogo from "./icons/servant-logo.png";
 import newIpad from "./icons/new-ipad-logo.png";
 import usaLogo from "./icons/16.png";
 
-//destructuring images
+//collect all images in a variable
 export const assets = {
   menu,
   logo,

@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import "./Footer.css";
-// import usaLogo from "../../commonResource/images/icons/16.png";
+import "../../assets/js/custom.js";
 import { assets } from "../../assets/images/assets";
 
 class Footer extends Component {

@@ -27,19 +27,19 @@ class Header extends Component {
               </a>
               <div className="navbar-collapse collapse">
                 <ul className="navbar-nav nav-justified w-100 nav-fill">
-                  <HeaderLink linkName="/mac/" name="Mac" />
-                  <HeaderLink linkName="/iphone/" name="iphone" />
-                  <HeaderLink linkName="/ipad/" name="ipad" />
-                  <HeaderLink linkName="/watch/" name="Watch" />
-                  <HeaderLink linkName="/tv/" name="tv" />
-                  <HeaderLink linkName="/Music/" name="Music" />
-                  <HeaderLink linkName="/Support/" name="Support" />
+                  <HeaderLink linkName="#" name="Mac" />
+                  <HeaderLink linkName="#" name="iphone" />
+                  <HeaderLink linkName="#" name="ipad" />
+                  <HeaderLink linkName="#" name="Watch" />
+                  <HeaderLink linkName="#" name="tv" />
+                  <HeaderLink linkName="#" name="Music" />
+                  <HeaderLink linkName="#" name="Support" />
                   <HeaderLink
-                    linkName="/search/"
+                    linkName="#"
                     name={<img src={assets.search}></img>}
                   />
                   <HeaderLink
-                    linkName="/cart/"
+                    linkName="#"
                     name={<img src={assets.cart}></img>}
                   />
                 </ul>
